@@ -4,10 +4,10 @@
 ![alt text](https://i.ibb.co/3BQJgzs/Apple-Arabi-in-SF-Arabic-All-Styles.jpg "Logo")
 
 ### 📃 Description:
-#### Systemlessly replaces arabic font with new apple font.
+##### Systemlessly replaces arabic font with new apple font.
 
-### 📺 Telegram: Comming Soon ..
-<a href="https://t.me/<img"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?longCache=true&style=flat-square"></a>
+### 📺 Telegram:
+<a href="https://t.me/AAFont/<img"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?longCache=true&style=flat-square"></a>
 
 ### 📱 Screenshots:
 ![alt text](https://i.ibb.co/JRS6CHc/photo-2019-02-15-16-29-00.jpg "Screenshot")
@@ -16,7 +16,7 @@
 v1
  * `First release`
 
-### ✅ Compatibility
+### ✅ Compatibility:
 * Compatible with most Android phones (please feedback)
 
 

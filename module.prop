@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=AppleArabicFont
+name=Apple Arabic Font
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Al.Khfaji
+description=Systemlessly replaces arabic font with new apple font.
 minMagisk=17000

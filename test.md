@@ -12,7 +12,7 @@
 <h2>
  
 ### 📺 Telegram:
- <a href="https://t.me/AAFont/<img"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?longCache=true&style=flat"></a>
+> <a href="https://t.me/AAFont/<img"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?longCache=true&style=flat"></a>
 </h2>
 <h2>
  
@@ -23,13 +23,13 @@
 <h2>
  
 ### 📋 Changelog:
-v1 `2019/06/28`
+> v1 `2019/06/28`
  * _First release_
 </h2>
 <h2>
  
 ### ✅ Compatibility:
- * Compatible with stock Android roms (please feedback)
+ > * Compatible with stock Android roms (please feedback)
 </h2>
 <h2>
  

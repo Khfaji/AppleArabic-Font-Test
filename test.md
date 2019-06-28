@@ -5,11 +5,10 @@
     <img src="https://img.shields.io/badge/Updated-June 28, 2019-color.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 </div>
-<h2>
  
 ### 📃 Description:
 ##### Systemlessly replaces arabic font with new apple font.
-</h2>
+
 <h2>
  
 ### 📺 Telegram:
